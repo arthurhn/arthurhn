@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Botcem Robotics team
 - 🌱 I’m currently learning Machine Learning
--- 👯 I’m looking to collaborate on Scrum management, 3D modelling and coding
+- 👯 I’m looking to collaborate on Scrum management, 3D modelling and coding
 - 🤔 I’m looking for help with Unit Testing and game engines (especially Unreal)
 - 💬 Ask me about 3D printing!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arthur-haickel-875242197/)
