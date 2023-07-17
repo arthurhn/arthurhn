@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Botcem Robotics team
 - 🌱 I’m currently learning Machine Learning
--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... --
+-- 👯 I’m looking to collaborate on Scrum management, 3D modelling and coding
+- 🤔 I’m looking for help with Unit Testing and game engines (especially Unreal)
+- 💬 Ask me about 3D printing!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arthur-haickel-875242197/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Did you know Jim and Pam were supposed to get a divorce by the last few episodes of The Office and even filmed scenes with the couple separated, but it was so poorly reeceived by fans and critics, they had to re-edit the episodes and fix their marriage on the fly so that viewership was kept high?
 
 
 ##
