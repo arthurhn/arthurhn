@@ -5,10 +5,10 @@ This  is my ✨ _Github Profile_ ✨.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Botcem Robotics team
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working as an Intern in Sensorville - Automação, IIoT e I4.0 
+- 🌱 I’m currently learning Pose Estimation, using Mediapipe, YOLO and PoseNet
 - 👯 I’m looking to collaborate on Scrum management, 3D modelling and coding
-- 🤔 I’m looking for help with Unit Testing and game engines (especially Unreal)
+- 🤔 I’m looking for help with TensorFlow and CUDA
 - 💬 Ask me about 3D printing!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arthur-haickel-875242197/)
 - 😄 Pronouns: he/him
