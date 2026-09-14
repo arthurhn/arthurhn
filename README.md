@@ -5,8 +5,8 @@ This  is my ✨ _Github Profile_ ✨.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an Intern in Sensorville - Automação, IIoT e I4.0 
-- 🌱 I’m currently learning Pose Estimation, using Mediapipe, YOLO and PoseNet
+- 🔭 I’m currently working as Leader Ingenieurie Systéme at Horse Powertrain 
+- 🌱 I’m currently learning Trajectory Planning, wur algos like A*, RRT and Potential Fields
 - 👯 I’m looking to collaborate on Scrum management, 3D modelling and coding
 - 🤔 I’m looking for help with TensorFlow and CUDA
 - 💬 Ask me about 3D printing!
